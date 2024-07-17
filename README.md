@@ -5,10 +5,10 @@ I program at home for fun.
 Programming languages:
  - Python
  - C++
+ - C
 
 What I'm learning:
  - C++
- - C
  - Machine Learning
    - Pytorch
    - Keras
