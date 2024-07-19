@@ -9,10 +9,6 @@ Programming languages:
 
 What I'm learning:
  - C++
- - Machine Learning
-   - Pytorch
-   - Keras
-   - Tensorflow
 
 Top Projects:
 [None yet ⏰]
